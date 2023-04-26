@@ -6,4 +6,4 @@
 ╚█████╔╝██╔╝╚██╗╚█████╔╝░░░██║░░░██████╔╝██║░╚███║
 ░╚════╝░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚═════╝░╚═╝░░╚══╝
 
-![Alt text]("https://i.ibb.co/jhNdkDv/7f36a548407334ac6ee0fb2065aeeb26.jpg")
+![Alt text](https://i.ibb.co/jhNdkDv/7f36a548407334ac6ee0fb2065aeeb26.jpg)
